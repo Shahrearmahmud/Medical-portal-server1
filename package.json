@@ -19,5 +19,8 @@
     "nodemailer-mailgun-transport": "^2.1.4",
     "postman": "^0.2.0"
   },
-  "description": ""
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.18"
+  }
 }
